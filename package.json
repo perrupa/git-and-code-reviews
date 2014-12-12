@@ -1,16 +1,21 @@
 {
-  "name": "git-and-code-reviews",
-  "version": "1.0.0",
-  "description": "A talk about using git and doing code reviews",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm test"
+  "name": "git-branching-and-code-reviews",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "load-grunt-tasks": "~0.4.0", 
+    "grunt-build-control": "^0.1.3",
+    "grunt-coffeelint": "0.0.10"
   },
-  "keywords": [
-    "git",
-    "code\\",
-    "reviews"
-  ],
-  "author": "Chris Marlow",
-  "license": "ISC"
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
 }
