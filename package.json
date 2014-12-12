@@ -1,0 +1,16 @@
+{
+  "name": "git-and-code-reviews",
+  "version": "1.0.0",
+  "description": "A talk about using git and doing code reviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "git",
+    "code\\",
+    "reviews"
+  ],
+  "author": "Chris Marlow",
+  "license": "ISC"
+}
