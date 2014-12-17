@@ -9,14 +9,14 @@
 
 ## Actions
 - commit
-	- ammend
+	- amend
 - fetch
 - branch
 	- `git branch -a | grep "feature/grunt"`
 - merge
 - rebase
 - don't use pull
-	- `git pull --rebase`
+	- if you have to, use `git pull --rebase`
 
 ## Code Reviews
 - 
