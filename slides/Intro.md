@@ -3,6 +3,14 @@
 
 ---
 
+## If you are uncertain...
+<br>
+## It's likely someone else is as well.
+<br>
+# Please ask questions
+
+---
+
 ## Overview
 
 - Git terms
