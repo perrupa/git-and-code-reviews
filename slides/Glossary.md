@@ -1,11 +1,8 @@
-# Glossary
-
----
-
 ##Terms:
 
 - Repository
 - Commit
+- HEAD
 - Tag
 - Branch
 - Remote
@@ -57,6 +54,16 @@ $ git commit -m "Added a README to the repo"
 
 ---
 
+# HEAD
+
+### Where's your head at?
+
+```bash
+$ cat .git/HEAD
+```
+
+---
+
 # Tags
 
 ### Lightweight pointers to commits
@@ -74,13 +81,6 @@ $ git tag my-tag-name
 ```bash
 $ git branch my-branch-name
 ```
-
----
-
-# HEAD
-
-### Pointer to the currently checked out commit
-### (can point to a branch)
 
 ---
 
