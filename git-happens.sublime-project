@@ -4,6 +4,18 @@
 		{
 			"follow_symlinks": true,
 			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "images"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "templates"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "slides"
 		}
 	]
 }

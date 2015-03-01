@@ -11,14 +11,22 @@
 
 # Git Repository
 
-###A Git repository is a directory where files and their history is stored
+### A Git repository is tree of commit objects 
+
+- Represented as Directed Acyclical Graph
+- Stored as a  `.git` directory in your project's working directory
 
 ---
 
+# Staging Area
 
-# Git Commit
+### The staging area is a commit that exists in the working directory, but has not been added to the tree yet.
 
-### A Git Commit is a "snapshot" of your project at a point in time
+---
+
+# Commit
+
+### A Commit is a "snapshot" of your project at a point in time
 
 ---
 

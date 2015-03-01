@@ -1,5 +1,7 @@
 node_modules
 bower_components
 dist
+git-happens.sublime-workspace
+index.html
 *.log
 .sass-cache
