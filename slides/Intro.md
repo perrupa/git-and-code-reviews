@@ -1,25 +1,28 @@
-# Git, Branching 
-# and Code Reviews
-
----
-
-## If you are uncertain...
-<br>
-## It's likely someone else is as well.
-<br>
-# Please ask questions
+# Git Happens
 
 ---
 
 ## Overview
 
-- Git terms
-	- Commits
-	- HEAD
-	- Tags
-	- Branches
-- 
+- _Git Nouns_
+	- Objects
+	- Identifiers
+- _Git Verbs_
+	- Communication
+	- Joining branches
+- _Git Flow_
+	- feature branches
+	- releases
 
 ---
 
-# Back to Basics
+## If you are confused
+## so is someone else
+
+---
+
+# Please ask questions
+
+---
+
+# Lets get Back to Basics

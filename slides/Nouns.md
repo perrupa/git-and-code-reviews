@@ -1,6 +1,7 @@
-##Terms:
+## Git "Nouns"
 
 - Repository
+- Staging Area
 - Commit
 - HEAD
 - Tag
