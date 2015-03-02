@@ -1,7 +1,8 @@
 [
 	"Intro.md",
 	"Nouns.md",
+	"Refs.md",
+	"aliases.md",
 	"Verbs.md",
-	"Flow.md",
-	"aliases.md"
+	"Flow.md"
 ]

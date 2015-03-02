@@ -25,4 +25,16 @@
 
 ---
 
-# Lets get Back to Basics
+## Who wrote this thing?!
+<br>
+#### Fed up with all other CVSes, Linus Torvalds decided he could do better. So he wrote Git in two weeks.
+
+---
+
+# Linux Philosophy
+
+Think of Git as a suite of tools, rather than a CVS
+
+---
+
+# Now, Lets get Back to Basics
